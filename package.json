@@ -1,0 +1,20 @@
+{
+  "name": "proyectofab",
+  "version": "0.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start":"nodemon app.js"
+  },
+  "dependencies":{
+    "admin-bro":"3.3.1",
+    "@admin-bro/express":"3.0.1",
+    "express":"4.17.1",
+    "express-formidable":"1.2.0"
+  },
+  "devDependecies":{
+    "nodemon":"2.0.6"
+  },
+  "author": "",
+  "license": "ISC"
+}
